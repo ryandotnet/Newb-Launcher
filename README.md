@@ -1,1 +1,2 @@
-# Newb-Launcher
+# Newb Launcher
+A MapleStory Global launcher written .NET Framework 4.7.2 using WinForms. An old project that was re-written and kept up-to-date for multiple years through Nexon's attempt to stop third-party launchers up until 2016. This is a fairly old project and I have decided to upload it for any developers in the future who may want to look into creating a similar project. Requiers (Costura) Fody, Newtonsoft.JSON (JSON.NET) & RestSharp. 
